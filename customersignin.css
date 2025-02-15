@@ -1,0 +1,16 @@
+#signin {
+	background-color: black;
+	width: 800px;
+	color: #fff;
+	height: 450px;
+	opacity: 0.8;
+}
+#signin a {
+	color: #33ff00;
+}
+#main {
+	
+	width: 700px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
